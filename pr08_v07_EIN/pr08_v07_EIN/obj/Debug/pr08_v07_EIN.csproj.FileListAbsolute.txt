@@ -1,0 +1,7 @@
+C:\Users\addmi\source\repos\pr08_v07_EIN\pr08_v07_EIN\bin\Debug\pr08_v07_EIN.exe.config
+C:\Users\addmi\source\repos\pr08_v07_EIN\pr08_v07_EIN\bin\Debug\pr08_v07_EIN.exe
+C:\Users\addmi\source\repos\pr08_v07_EIN\pr08_v07_EIN\bin\Debug\pr08_v07_EIN.pdb
+C:\Users\addmi\source\repos\pr08_v07_EIN\pr08_v07_EIN\obj\Debug\pr08_v07_EIN.csproj.AssemblyReference.cache
+C:\Users\addmi\source\repos\pr08_v07_EIN\pr08_v07_EIN\obj\Debug\pr08_v07_EIN.csproj.CoreCompileInputs.cache
+C:\Users\addmi\source\repos\pr08_v07_EIN\pr08_v07_EIN\obj\Debug\pr08_v07_EIN.exe
+C:\Users\addmi\source\repos\pr08_v07_EIN\pr08_v07_EIN\obj\Debug\pr08_v07_EIN.pdb
