@@ -5,3 +5,6 @@ C:\Users\addmi\AppData\Local\Temporary Projects\pr09_v15_KVA\obj\Release\pr09_v1
 C:\Users\addmi\AppData\Local\Temporary Projects\pr09_v15_KVA\obj\Release\pr09_v15_KVA.pdb
 C:\Users\addmi\GitHub\mdk0101\v15\pr09_v15_KVA\pr09_v15_KVA\obj\Release\pr09_v15_KVA.exe
 C:\Users\addmi\GitHub\mdk0101\v15\pr09_v15_KVA\pr09_v15_KVA\obj\Release\pr09_v15_KVA.pdb
+C:\Users\addmi\GitHub\mdk0101\v15\pr09_v15_KVA\pr09_v15_KVA\bin\Release\pr09_v15_KVA.exe
+C:\Users\addmi\GitHub\mdk0101\v15\pr09_v15_KVA\pr09_v15_KVA\bin\Release\pr09_v15_KVA.pdb
+C:\Users\addmi\GitHub\mdk0101\v15\pr09_v15_KVA\pr09_v15_KVA\obj\Release\ResolveAssemblyReference.cache

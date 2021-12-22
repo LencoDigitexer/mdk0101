@@ -10,22 +10,22 @@ namespace pr09_v15_KVA
         static void Main(string[] args)
         {
             // Создать экземпляр класса:
-            Rectangle X = new Rectangle(); // с длинами сторон "по умолчанию", равными 3, 4 и 5;
+            Rectangle X = new Rectangle(); // с длинами сторон "по умолчанию", равными 1 и 1;
             Rectangle Y = new Rectangle(5, 10); // с заданными длинами сторон.
 
-            Console.WriteLine("Длины сторон прямоугольника: ");
+            Console.WriteLine("Длины сторон прямоугольников: ");
             X.Display();
             Y.Display();
 
-            Console.Write("\nПериметр прямоугольника: \n");
+            Console.Write("\nПериметр прямоугольников: \n");
             Console.WriteLine(X.Perimetr());
             Console.WriteLine(Y.Perimetr());
 
-            Console.Write("\nПлощадь прямоугольника: \n");
+            Console.Write("\nПлощадь прямоугольников: \n");
             Console.WriteLine(X.Ploshad());
             Console.WriteLine(Y.Ploshad());
 
-            Console.WriteLine("\nПолучить-установить длины сторон прямоугольника (доступное для чтения и записи):");
+            Console.WriteLine("\nПолучить-установить длины сторон прямоугольников (доступное для чтения и записи):");
             X.A = 4; //Изменение переметров через свойства
             X.B = 4;
             X.Display();
@@ -34,7 +34,7 @@ namespace pr09_v15_KVA
             Y.B = 50;
             Y.Display();
 
-            Console.WriteLine("\nСуществует ли прямоугольника с данными длинами сторон(только для чтения):");
+            Console.WriteLine("\nЯвляется ли данный прямоугольник квадратом(только для чтения):");
             Console.WriteLine(X.isSquare);
             Console.WriteLine(Y.isSquare);
 
