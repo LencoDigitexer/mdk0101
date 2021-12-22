@@ -1,0 +1,7 @@
+C:\Users\addmi\GitHub\mdk0101\v15\pr10-11\pr10-11_v15_KVA\bin\Release\pr10-11_v15_KVA.exe
+C:\Users\addmi\GitHub\mdk0101\v15\pr10-11\pr10-11_v15_KVA\bin\Release\pr10-11_v15_KVA.pdb
+C:\Users\addmi\GitHub\mdk0101\v15\pr10-11\pr10-11_v15_KVA\obj\Release\ResolveAssemblyReference.cache
+C:\Users\addmi\GitHub\mdk0101\v15\pr10-11\pr10-11_v15_KVA\obj\Release\pr10-11_v15_KVA.exe
+C:\Users\addmi\GitHub\mdk0101\v15\pr10-11\pr10-11_v15_KVA\obj\Release\pr10-11_v15_KVA.pdb
+C:\Users\addmi\GitHub\mdk0101\v15\pr10-11_v15_KVA\pr10-11_v15_KVA\obj\Release\pr10-11_v15_KVA.exe
+C:\Users\addmi\GitHub\mdk0101\v15\pr10-11_v15_KVA\pr10-11_v15_KVA\obj\Release\pr10-11_v15_KVA.pdb
