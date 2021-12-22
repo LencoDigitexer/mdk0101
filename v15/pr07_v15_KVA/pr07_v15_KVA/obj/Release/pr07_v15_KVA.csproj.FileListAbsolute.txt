@@ -1,7 +1,5 @@
-C:\Users\addmi\AppData\Local\Temporary Projects\pr07_v15_KVA\bin\Release\pr07_v15_KVA.exe
-C:\Users\addmi\AppData\Local\Temporary Projects\pr07_v15_KVA\bin\Release\pr07_v15_KVA.pdb
-C:\Users\addmi\AppData\Local\Temporary Projects\pr07_v15_KVA\obj\Release\ResolveAssemblyReference.cache
-C:\Users\addmi\AppData\Local\Temporary Projects\pr07_v15_KVA\obj\Release\pr07_v15_KVA.exe
-C:\Users\addmi\AppData\Local\Temporary Projects\pr07_v15_KVA\obj\Release\pr07_v15_KVA.pdb
+C:\Users\addmi\GitHub\mdk0101\v15\pr07_v15_KVA\pr07_v15_KVA\bin\Release\pr07_v15_KVA.exe
+C:\Users\addmi\GitHub\mdk0101\v15\pr07_v15_KVA\pr07_v15_KVA\bin\Release\pr07_v15_KVA.pdb
+C:\Users\addmi\GitHub\mdk0101\v15\pr07_v15_KVA\pr07_v15_KVA\obj\Release\ResolveAssemblyReference.cache
 C:\Users\addmi\GitHub\mdk0101\v15\pr07_v15_KVA\pr07_v15_KVA\obj\Release\pr07_v15_KVA.exe
 C:\Users\addmi\GitHub\mdk0101\v15\pr07_v15_KVA\pr07_v15_KVA\obj\Release\pr07_v15_KVA.pdb

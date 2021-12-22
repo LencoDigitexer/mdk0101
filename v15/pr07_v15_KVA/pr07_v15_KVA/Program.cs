@@ -23,7 +23,7 @@ namespace pr07_v15_KVA
                 sum = sum - ((sum / 100) * 3);
             }
             Console.WriteLine("Итоговая стоимость = " + sum);
-
+            Console.ReadKey();
             
         }
     }
