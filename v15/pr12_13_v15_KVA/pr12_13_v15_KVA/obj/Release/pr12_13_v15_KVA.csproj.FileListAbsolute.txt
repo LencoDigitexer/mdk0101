@@ -1,0 +1,8 @@
+C:\Users\addmi\GitHub\mdk0101\v15\pr12_13_v15_KVA\pr12_13_v15_KVA\bin\Release\pr12_13_v15_KVA.exe
+C:\Users\addmi\GitHub\mdk0101\v15\pr12_13_v15_KVA\pr12_13_v15_KVA\bin\Release\pr12_13_v15_KVA.pdb
+C:\Users\addmi\GitHub\mdk0101\v15\pr12_13_v15_KVA\pr12_13_v15_KVA\obj\Release\ResolveAssemblyReference.cache
+C:\Users\addmi\GitHub\mdk0101\v15\pr12_13_v15_KVA\pr12_13_v15_KVA\obj\Release\pr12_13_v15_KVA.Form1.resources
+C:\Users\addmi\GitHub\mdk0101\v15\pr12_13_v15_KVA\pr12_13_v15_KVA\obj\Release\pr12_13_v15_KVA.Properties.Resources.resources
+C:\Users\addmi\GitHub\mdk0101\v15\pr12_13_v15_KVA\pr12_13_v15_KVA\obj\Release\pr12_13_v15_KVA.csproj.GenerateResource.Cache
+C:\Users\addmi\GitHub\mdk0101\v15\pr12_13_v15_KVA\pr12_13_v15_KVA\obj\Release\pr12_13_v15_KVA.exe
+C:\Users\addmi\GitHub\mdk0101\v15\pr12_13_v15_KVA\pr12_13_v15_KVA\obj\Release\pr12_13_v15_KVA.pdb
