@@ -1,0 +1,10 @@
+C:\Users\addmi\GitHub\mdk0101\v15\pr15-17_v15_KVA\pr15-17_v15_KVA\bin\Debug\pr15-17_v15_KVA.exe
+C:\Users\addmi\GitHub\mdk0101\v15\pr15-17_v15_KVA\pr15-17_v15_KVA\bin\Debug\pr15-17_v15_KVA.pdb
+C:\Users\addmi\GitHub\mdk0101\v15\pr15-17_v15_KVA\pr15-17_v15_KVA\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\addmi\GitHub\mdk0101\v15\pr15-17_v15_KVA\pr15-17_v15_KVA\obj\Debug\pr15_17_v15_KVA.About.resources
+C:\Users\addmi\GitHub\mdk0101\v15\pr15-17_v15_KVA\pr15-17_v15_KVA\obj\Debug\pr15_17_v15_KVA.blank.resources
+C:\Users\addmi\GitHub\mdk0101\v15\pr15-17_v15_KVA\pr15-17_v15_KVA\obj\Debug\pr15_17_v15_KVA.frmmain.resources
+C:\Users\addmi\GitHub\mdk0101\v15\pr15-17_v15_KVA\pr15-17_v15_KVA\obj\Debug\pr15_17_v15_KVA.Properties.Resources.resources
+C:\Users\addmi\GitHub\mdk0101\v15\pr15-17_v15_KVA\pr15-17_v15_KVA\obj\Debug\pr15-17_v15_KVA.csproj.GenerateResource.Cache
+C:\Users\addmi\GitHub\mdk0101\v15\pr15-17_v15_KVA\pr15-17_v15_KVA\obj\Debug\pr15-17_v15_KVA.exe
+C:\Users\addmi\GitHub\mdk0101\v15\pr15-17_v15_KVA\pr15-17_v15_KVA\obj\Debug\pr15-17_v15_KVA.pdb
